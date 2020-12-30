@@ -1,5 +1,5 @@
 {
-  "name": "lit-transition",
+  "name": "@sifhic/lit-transition",
   "version": "0.0.0",
   "description": "",
   "module": "dist/index",
@@ -7,7 +7,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sijakret/lit-transition.git"
+    "url": "https://github.com/sifhic/lit-transition.git"
   },
   "scripts": {
     "start": "webpack-dev-server",

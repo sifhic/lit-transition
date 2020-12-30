@@ -16,7 +16,7 @@ export * from './interfaces';
 /**
  * re-export predefined transitions
  */ 
-export * from './transitions';
+export * from './transitions/index';
 
 /**
  * re-export mark
